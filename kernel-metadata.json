@@ -1,0 +1,14 @@
+{
+  "id": "bbr2007/pneumonia-prediction",
+  "title": "pneumonia_prediction",
+  "code_file": "pneumonia_prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "paultimothymooney/chest-xray-pneumonia"
+  ],
+  "competition_sources": []
+}

@@ -1,0 +1,8 @@
+project: pneumonia-prediction
+kernel_slug: bbr2007/pneumonia-prediction
+code_file: pneumonia_prediction.ipynb
+accelerator: gpu
+internet: true
+privacy: private
+datasets:
+  - paultimothymooney/chest-xray-pneumonia
